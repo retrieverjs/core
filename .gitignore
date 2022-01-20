@@ -1,0 +1,6 @@
+.vscode
+.env
+.yarn/cache
+.yarn/install-state.gz
+dist/
+node_modules/
