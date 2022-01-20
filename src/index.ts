@@ -1,1 +1,1 @@
-export { Retriever } from './retriever';
+export { Retriever, IRetrieverSite, IRetrieverResult } from './retriever';
